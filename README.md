@@ -7,13 +7,11 @@
 
 - 👯 I’m looking to collaborate on **my current project**
 
-- 👨‍💻 All of my projects are available at [My GitHub](My GitHub)
+- 👨‍💻 All of my projects are available at My GitHub.
 
 - 💬 Ask me about **JavaScript, Python**
 
 - 📫 How to reach me **via social media**
-
-- 📄 Know about my experiences [file:///C:/Users/rahee/Downloads/Mirza%20Raheem%20Baig_r.pdf](file:///C:/Users/rahee/Downloads/Mirza%20Raheem%20Baig_r.pdf)
 
 - ⚡ Fun fact **Some times I do crazy things**
 
