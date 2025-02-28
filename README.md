@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raheem baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raheem baig" height="30" width="40" /></a>
-<a href="https://fb.com/mirza raheem baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mirza raheem baig" height="30" width="40" /></a>
-<a href="https://instagram.com/raheem_baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raheem_baig" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raheem baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raheem baig" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/raheem baig](https://www.linkedin.com/in/raheem-baig-407574273/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raheem baig" height="30" width="40" /></a>
+<a href="[https://fb.com/mirza raheem baig](https://www.facebook.com/profile.php?id=100073769981924)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mirza raheem baig" height="30" width="40" /></a>
+<a href="[https://instagram.com/raheem_baig](https://www.instagram.com/raheem__baig/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raheem_baig" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/raheem baig](https://leetcode.com/problemset/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raheem baig" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
