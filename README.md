@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on **E-Commerce Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **my current project**
 
 - 👨‍💻 All of my projects are available at My GitHub.
 
 - 💬 Ask me about **JavaScript, Python**
-
-- 📫 How to reach me **via social media**
 
 - ⚡ Fun fact **Some times I do crazy things**
 
