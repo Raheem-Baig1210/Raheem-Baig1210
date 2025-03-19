@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirza Raheem Baig</h1>
 <h3 align="center">Computer Science Engineer Student (4th year)</h3>
 
-- 🔭 I’m currently working on **E-Commerce Project**
+- 🔭 I’m currently working on **Online-IDE Project**
 
 - 🌱 I’m currently learning **MERN**
 
