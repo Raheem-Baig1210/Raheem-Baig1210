@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at My GitHub.
 
+- 📫 How to reach me raheembaig824@gmail.com
+
 - 💬 Ask me about **JavaScript, Python**
 
 - ⚡ Fun fact **Some times I do crazy things**
